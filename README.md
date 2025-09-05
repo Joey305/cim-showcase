@@ -127,6 +127,6 @@ The application and underlying models are private.
 
 ## Contact
 Questions, partnerships, or enterprise deployment?  
-**DK Smith & Co.** · info@dksmithco.com (replace with the preferred address)
+**DK Smith & Co.** · joey@dksmithco.com 
 
 ---
